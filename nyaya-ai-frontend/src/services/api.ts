@@ -1,7 +1,9 @@
 import axios, { AxiosError } from 'axios';
 import type { ApiEnvelope, CaseExtractResponse, Citation, LegalAnalysis, LegalCase, LegalDocument, LegalSearchResponse, DocumentType } from '../types/api';
 
-const baseURL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5000';
+// Dev: talk to the local backend. Production: same-origin '/api/v1' (Vercel rewrites it to the backend,
+// see vercel.json). Set VITE_API_BASE_URL only if the backend has its own HTTPS URL.
+const baseURL: string = import.meta.env.VITE_API_BASE_URL ?? (import.meta.env.DEV ? 'http://localhost:5000' : '');
 export const api = axios.create({ baseURL: `${baseURL.replace(/\/$/, '')}/api/v1`, timeout: 120_000, headers: { 'Content-Type': 'application/json' } });
 api.interceptors.response.use((r) => r, (error: AxiosError<{message?: string; details?: unknown}>) => {
   const status = error.response?.status;
