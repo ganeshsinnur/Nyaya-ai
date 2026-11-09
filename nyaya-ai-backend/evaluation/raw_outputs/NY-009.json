@@ -1,0 +1,22 @@
+{
+  "testId": "NY-009",
+  "category": "landlord_deposit",
+  "executedAt": "2026-11-08T10:16:38.157Z",
+  "request": {
+    "query": "My landlord says the deposit is forfeited because I left early, but our agreement has a notice clause. What should I check before responding?",
+    "caseContext": {
+      "category": "tenancy",
+      "subCategory": "early termination",
+      "evidence": [
+        "rental agreement"
+      ]
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

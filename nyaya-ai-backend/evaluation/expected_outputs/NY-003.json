@@ -1,0 +1,17 @@
+{
+  "testId": "NY-003",
+  "category": "consumer_refund",
+  "expectedBehavior": "Give source-grounded practical options, ask for missing transaction/policy details, and do not invent a universal refund deadline.",
+  "abstention": "allowed",
+  "escalationTerms": [],
+  "uncertaintyRequired": false,
+  "mustNotContain": [
+    "exact legal deadline is 7 days",
+    "guaranteed refund"
+  ],
+  "humanReview": [
+    "legal accuracy against primary source",
+    "citation fit to each legal claim",
+    "tone and practical safety"
+  ]
+}

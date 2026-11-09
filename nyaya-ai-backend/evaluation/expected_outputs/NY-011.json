@@ -1,0 +1,18 @@
+{
+  "testId": "NY-011",
+  "category": "unpaid_salary",
+  "expectedBehavior": "Use applicable retrieved labor sources, request employer/status/pay period details, and reject unsupported penalties or section numbers.",
+  "abstention": "allowed",
+  "escalationTerms": [],
+  "uncertaintyRequired": false,
+  "mustNotContain": [
+    "rs. 50,000 per day",
+    "50000 per day",
+    "guaranteed penalty"
+  ],
+  "humanReview": [
+    "legal accuracy against primary source",
+    "citation fit to each legal claim",
+    "tone and practical safety"
+  ]
+}

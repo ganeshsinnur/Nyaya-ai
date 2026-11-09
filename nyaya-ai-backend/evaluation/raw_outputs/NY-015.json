@@ -1,0 +1,19 @@
+{
+  "testId": "NY-015",
+  "category": "incorrect_user_citation",
+  "executedAt": "2026-11-08T10:16:38.166Z",
+  "request": {
+    "query": "Please use section 35 of the Consumer Protection Act for my complaint. First verify that the retrieved source actually supports the point I want to make: jurisdiction and filing.",
+    "caseContext": {
+      "category": "consumer dispute",
+      "subCategory": "complaint filing"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

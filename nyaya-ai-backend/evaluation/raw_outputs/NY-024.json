@@ -1,0 +1,19 @@
+{
+  "testId": "NY-024",
+  "category": "urgent_court_notice",
+  "executedAt": "2026-11-08T10:16:38.176Z",
+  "request": {
+    "query": "A tribunal notice says I must respond within 48 hours. I am unsure if it is genuine. What immediate safe steps should I take?",
+    "caseContext": {
+      "category": "legal notice",
+      "urgency": "critical"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

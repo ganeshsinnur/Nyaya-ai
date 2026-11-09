@@ -1,0 +1,19 @@
+{
+  "testId": "NY-014",
+  "category": "incorrect_user_citation",
+  "executedAt": "2026-11-08T10:16:38.165Z",
+  "request": {
+    "query": "A friend told me IPC section 420 is the section for every delayed consumer refund. Is that accurate? Only answer from retrieved sources.",
+    "caseContext": {
+      "category": "consumer dispute",
+      "subCategory": "refund delay"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

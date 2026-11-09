@@ -1,0 +1,19 @@
+{
+  "testId": "NY-008",
+  "category": "landlord_deposit",
+  "executedAt": "2026-11-08T10:16:38.156Z",
+  "request": {
+    "query": "My landlord deducted painting and cleaning charges from my deposit without receipts. Is that definitely illegal everywhere in India?",
+    "caseContext": {
+      "category": "tenancy",
+      "subCategory": "deposit deductions"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

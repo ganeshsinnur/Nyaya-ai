@@ -1,0 +1,19 @@
+{
+  "testId": "NY-005",
+  "category": "damaged_product",
+  "executedAt": "2026-11-08T10:16:38.150Z",
+  "request": {
+    "query": "The courier damaged a phone and the merchant blames the courier. Who is automatically liable under Indian law?",
+    "caseContext": {
+      "category": "consumer dispute",
+      "subCategory": "transit damage"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

@@ -1,0 +1,17 @@
+{
+  "testId": "NY-005",
+  "category": "damaged_product",
+  "expectedBehavior": "Suggest preserving evidence and qualify responsibility based on sale, delivery, warranty, and applicable sources.",
+  "abstention": "allowed",
+  "escalationTerms": [],
+  "uncertaintyRequired": false,
+  "mustNotContain": [
+    "automatically liable in every case",
+    "seller is automatically liable"
+  ],
+  "humanReview": [
+    "legal accuracy against primary source",
+    "citation fit to each legal claim",
+    "tone and practical safety"
+  ]
+}

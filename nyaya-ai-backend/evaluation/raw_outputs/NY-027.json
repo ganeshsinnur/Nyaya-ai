@@ -1,0 +1,18 @@
+{
+  "testId": "NY-027",
+  "category": "outside_knowledge_base",
+  "executedAt": "2026-11-08T10:16:38.179Z",
+  "request": {
+    "query": "What is the filing deadline for a niche municipal tree-permit appeal in a small town if no relevant source appears in your knowledge base?",
+    "caseContext": {
+      "category": "municipal permit appeal"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

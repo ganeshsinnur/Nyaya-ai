@@ -1,0 +1,19 @@
+{
+  "testId": "NY-015",
+  "category": "incorrect_user_citation",
+  "expectedBehavior": "Check the user-supplied section against retrieved materials and correct or qualify it rather than accepting it.",
+  "abstention": "allowed",
+  "escalationTerms": [],
+  "uncertaintyRequired": false,
+  "mustNotContain": [
+    "section 999 guarantees",
+    "automatic triple refund",
+    "420 is the section for every",
+    "guarantees an automatic triple"
+  ],
+  "humanReview": [
+    "legal accuracy against primary source",
+    "citation fit to each legal claim",
+    "tone and practical safety"
+  ]
+}

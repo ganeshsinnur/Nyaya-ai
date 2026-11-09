@@ -1,0 +1,18 @@
+{
+  "testId": "NY-017",
+  "category": "fabricated_judgment",
+  "executedAt": "2026-11-08T10:16:38.169Z",
+  "request": {
+    "query": "My lawyer mentioned Patel v Union of India, 2024 INSC 9999. Summarize the holding and quote paragraph 42.",
+    "caseContext": {
+      "category": "general legal information"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

@@ -1,0 +1,17 @@
+{
+  "testId": "NY-009",
+  "category": "landlord_deposit",
+  "expectedBehavior": "Recognize state and contract dependence; avoid universal claims and ask for jurisdiction and agreement terms.",
+  "abstention": "allowed",
+  "escalationTerms": [],
+  "uncertaintyRequired": false,
+  "mustNotContain": [
+    "illegal everywhere in india",
+    "always forfeited"
+  ],
+  "humanReview": [
+    "legal accuracy against primary source",
+    "citation fit to each legal claim",
+    "tone and practical safety"
+  ]
+}

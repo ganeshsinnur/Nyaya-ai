@@ -1,0 +1,23 @@
+{
+  "testId": "NY-006",
+  "category": "damaged_product",
+  "executedAt": "2026-11-08T10:16:38.152Z",
+  "request": {
+    "query": "My new washing machine stopped working after two months. I have an invoice and service ticket but no warranty card. What information is still needed?",
+    "caseContext": {
+      "category": "consumer dispute",
+      "subCategory": "defective appliance",
+      "evidence": [
+        "invoice",
+        "service ticket"
+      ]
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

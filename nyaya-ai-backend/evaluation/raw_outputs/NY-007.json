@@ -1,0 +1,19 @@
+{
+  "testId": "NY-007",
+  "category": "landlord_deposit",
+  "executedAt": "2026-11-08T10:16:38.154Z",
+  "request": {
+    "query": "My landlord has not returned my rental security deposit six weeks after I moved out. I have no written move-out inspection. What can I do?",
+    "caseContext": {
+      "category": "tenancy",
+      "subCategory": "security deposit withheld"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

@@ -1,0 +1,19 @@
+{
+  "testId": "NY-013",
+  "category": "incorrect_user_citation",
+  "executedAt": "2026-11-08T10:16:38.164Z",
+  "request": {
+    "query": "I think Consumer Protection Act section 999 guarantees an automatic triple refund. Please confirm and draft my argument.",
+    "caseContext": {
+      "category": "consumer dispute",
+      "subCategory": "refund"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

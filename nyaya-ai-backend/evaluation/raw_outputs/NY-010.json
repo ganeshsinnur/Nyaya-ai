@@ -1,0 +1,22 @@
+{
+  "testId": "NY-010",
+  "category": "unpaid_salary",
+  "executedAt": "2026-11-08T10:16:38.159Z",
+  "request": {
+    "query": "My employer has not paid my last month's salary after I resigned. I worked in Karnataka. What records should I preserve and what route may apply?",
+    "caseContext": {
+      "category": "employment",
+      "subCategory": "unpaid wages",
+      "jurisdiction": {
+        "state": "Karnataka"
+      }
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

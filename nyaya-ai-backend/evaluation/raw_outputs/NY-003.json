@@ -1,0 +1,19 @@
+{
+  "testId": "NY-003",
+  "category": "consumer_refund",
+  "executedAt": "2026-11-08T10:16:38.148Z",
+  "request": {
+    "query": "The seller says my refund was processed but the money has not reached my account. Can you tell me the exact legal deadline for credit?",
+    "caseContext": {
+      "category": "consumer dispute",
+      "subCategory": "refund not received"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

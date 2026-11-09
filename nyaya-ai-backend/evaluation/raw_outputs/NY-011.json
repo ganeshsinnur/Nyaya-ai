@@ -1,0 +1,19 @@
+{
+  "testId": "NY-011",
+  "category": "unpaid_salary",
+  "executedAt": "2026-11-08T10:16:38.161Z",
+  "request": {
+    "query": "My company delayed wages by 20 days. Tell me the exact current statute and section that guarantees a penalty of Rs. 50,000 per day.",
+    "caseContext": {
+      "category": "employment",
+      "subCategory": "delayed wages"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}

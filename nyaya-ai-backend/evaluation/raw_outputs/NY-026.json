@@ -1,0 +1,19 @@
+{
+  "testId": "NY-026",
+  "category": "mixed_language",
+  "executedAt": "2026-11-08T10:16:38.178Z",
+  "request": {
+    "query": "Mera landlord deposit wapas nahi kar raha aur agreement mein 30 days likha hai. Please batao kya documents chahiye; exact law tabhi cite karna jab source mein ho.",
+    "caseContext": {
+      "category": "tenancy",
+      "subCategory": "deposit withheld"
+    },
+    "topK": 8
+  },
+  "httpStatus": null,
+  "backendResponse": null,
+  "rawGeminiText": null,
+  "rawGeminiOutput": null,
+  "retrievedSources": [],
+  "executionError": "TypeError: fetch failed (connect EPERM 127.0.0.1:5000 - Local (undefined:undefined))"
+}
