@@ -105,6 +105,8 @@ function _formatChunk(fusedEntry) {
 function _abbreviate(actName) {
   const yearMatch = actName.match(/\b(\d{4})\b/);
   const year = yearMatch ? yearMatch[1] : "";
+  // Non-statute sources (e.g. "General contract / tenancy practice") keep a readable name
+  if (!yearMatch) return actName.length > 40 ? `${actName.slice(0, 37)}...` : actName;
   const acronym = actName
     .replace(/[,\d\s]+$/, "")
     .split(/\s+/)

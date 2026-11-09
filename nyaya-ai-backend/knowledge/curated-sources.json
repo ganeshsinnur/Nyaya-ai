@@ -1,0 +1,316 @@
+{
+  "_about": "Closed knowledge base. The assistant may state ONLY laws, sections and facts that appear here. Entries have verification records checked on 2026-11-08 against India Code, Gazette notifications and official department sources where available; some practice guidance uses secondary explainers. This is NOT a lawyer's review. Sections are cited only where confidence is high.",
+  "entries": [
+    {
+      "id": "DEP-1",
+      "topic": "deposit",
+      "confidence": "medium",
+      "source": "General contract / tenancy practice",
+      "acts": [],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "A security deposit is your money held by the landlord as safety for unpaid rent or damage beyond normal wear and tear. It should be returned when you hand back the home, after lawful deductions. Read your rental agreement first: it usually states the amount, the notice period and what can be deducted. There is no single national rule on how fast a deposit must be returned; it depends on your agreement and your state's rent law.",
+      "hi": "सिक्योरिटी डिपॉजिट आपका पैसा है जो मकान मालिक के पास बकाया किराए या सामान्य घिसावट से ज़्यादा नुकसान की सुरक्षा के रूप में रहता है। घर लौटाने पर वैध कटौती के बाद यह वापस होना चाहिए। सबसे पहले अपना रेंट एग्रीमेंट पढ़ें: उसमें राशि, नोटिस अवधि और कटौती के नियम आमतौर पर लिखे होते हैं। डिपॉजिट कितनी जल्दी लौटाना है, इस पर पूरे देश का एक नियम नहीं है; यह आपके एग्रीमेंट और आपके राज्य के किराया कानून पर निर्भर करता है।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "practice, not a statute",
+        "evidence": "General practical guidance, no specific legal provision cited; reasonableness reviewed, not source-checked."
+      }
+    },
+    {
+      "id": "DEP-2",
+      "topic": "deposit",
+      "confidence": "medium",
+      "source": "Model Tenancy Act, 2021",
+      "acts": [
+        "Model Tenancy Act, 2021"
+      ],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "The Model Tenancy Act, 2021 is a model law that each state may adopt. Where a state has adopted it, the deposit for a home is capped at two months' rent and is to be returned when the tenant hands back possession, after lawful deductions. It applies only in states that have adopted it, so check your state's law.",
+      "hi": "Model Tenancy Act, 2021 एक मॉडल कानून है जिसे हर राज्य अपना सकता है। जिस राज्य ने इसे अपनाया है, वहाँ रहने के घर के लिए डिपॉजिट अधिकतम दो महीने के किराए तक सीमित है और कब्ज़ा लौटाने पर वैध कटौती के बाद वापस होना चाहिए। यह केवल उन्हीं राज्यों में लागू है जिन्होंने इसे अपनाया है, इसलिए अपने राज्य का कानून जाँचें।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed (secondary)",
+        "evidence": "Web check: Model Tenancy Act 2021 caps residential deposit at two months' rent; refund at vacating after lawful deductions; applies only where a state adopts it. Sources are explainers, not the statute text."
+      }
+    },
+    {
+      "id": "DEP-3",
+      "topic": "deposit",
+      "confidence": "medium",
+      "source": "General civil remedy",
+      "acts": [],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "If the landlord keeps the deposit without a valid reason: (1) ask for it in writing and request itemised deductions; (2) send a legal notice with a deadline, commonly 15 days; (3) if still unpaid, a civil suit for recovery of money can be filed. Consumer forums generally do not hear landlord-tenant deposit disputes; the usual route is the civil court or the rent authority/tribunal of your state. Get a lawyer before filing.",
+      "hi": "अगर मकान मालिक बिना उचित कारण डिपॉजिट रोके रखे: (1) लिखित में माँगें और कटौतियों का ब्यौरा पूछें; (2) समय-सीमा (आमतौर पर 15 दिन) के साथ कानूनी नोटिस भेजें; (3) फिर भी पैसा न मिले तो पैसे की वसूली का दीवानी मुकदमा दायर किया जा सकता है। उपभोक्ता फोरम आमतौर पर मकान मालिक-किरायेदार के डिपॉजिट विवाद नहीं सुनते; आमतौर पर दीवानी अदालत या आपके राज्य का रेंट प्राधिकरण/ट्रिब्यूनल सही रास्ता है। दायर करने से पहले वकील से मिलें।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "practice, not a statute",
+        "evidence": "General practical guidance, no specific legal provision cited; reasonableness reviewed, not source-checked."
+      }
+    },
+    {
+      "id": "LIM-1",
+      "topic": "deposit",
+      "confidence": "high",
+      "source": "Limitation Act, 1963",
+      "acts": [
+        "Limitation Act, 1963"
+      ],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "Under the Limitation Act, 1963, most civil claims to recover money must be filed within three years from when the right to sue arose (for a deposit, usually when it should have been returned). Special laws can set shorter or different periods, so a lawyer should confirm the exact period for your case.",
+      "hi": "Limitation Act, 1963 के तहत पैसे की वसूली के ज़्यादातर दीवानी दावे उस तारीख से तीन साल के भीतर दायर करने होते हैं जब मुकदमा करने का अधिकार बना (डिपॉजिट में आमतौर पर जब उसे लौटाना था)। विशेष कानूनों में अवधि कम या अलग हो सकती है, इसलिए सही अवधि वकील से पक्की करें।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed (primary statute; exact article depends on claim)",
+        "evidence": "India Code Limitation Act Schedule Articles 55 and 113 prescribe three years for breach-of-contract compensation and residual suits, respectively, with accrual points specified in the Schedule. The appropriate article and accrual date depend on the claim and agreement; special laws can differ."
+      }
+    },
+    {
+      "id": "CPA-1",
+      "topic": "refund",
+      "confidence": "high",
+      "source": "Consumer Protection Act, 2019",
+      "acts": [
+        "Consumer Protection Act, 2019"
+      ],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "If you paid for goods or a service and got a defective product, deficient service or an unfair trade practice (for example a promised refund that never came), you can complain as a 'consumer' under the Consumer Protection Act, 2019. The Commission can order a refund, compensation and costs.",
+      "hi": "अगर आपने सामान या सेवा के लिए पैसे दिए और खराब सामान, कमी वाली सेवा या अनुचित व्यापार व्यवहार मिला (जैसे वादा किया रिफंड कभी नहीं आया), तो आप Consumer Protection Act, 2019 के तहत 'उपभोक्ता' के रूप में शिकायत कर सकते हैं। आयोग रिफंड, मुआवज़ा और खर्च दिलवा सकता है।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "not re-checked",
+        "evidence": "Standard provision stated from knowledge; not re-checked in the 2026-11-08 pass. Lawyer review still needed."
+      }
+    },
+    {
+      "id": "CPA-2",
+      "topic": "refund",
+      "confidence": "high",
+      "source": "Consumer Protection Act, 2019, Section 35; National Consumer Helpline",
+      "acts": [
+        "Consumer Protection Act, 2019"
+      ],
+      "sections": [
+        {
+          "n": "35",
+          "act": "Consumer Protection Act, 2019"
+        }
+      ],
+      "verify": "https://consumeraffairs.gov.in/pages/consumer-protection-unit",
+      "en": "A complaint can be filed before the District Consumer Disputes Redressal Commission (Section 35 of the Consumer Protection Act, 2019) and electronically through e-Jagriti, the national platform that integrated e-Daakhil and other legacy systems in 2025. You may first raise it with the National Consumer Helpline (1915 or 1800-11-4000), a free pre-litigation grievance route. The filing fee is nil when the value paid as consideration is up to Rs 5 lakh.",
+      "hi": "शिकायत जिला उपभोक्ता विवाद निवारण आयोग में दायर की जा सकती है (Consumer Protection Act, 2019 की धारा 35) और e-Jagriti पर ऑनलाइन भी की जा सकती है। 2025 में इस राष्ट्रीय मंच ने e-Daakhil और अन्य पुराने सिस्टम को एकीकृत किया। आप पहले राष्ट्रीय उपभोक्ता हेल्पलाइन (1915 या 1800-11-4000) पर मुफ़्त, मुकदमे-पूर्व शिकायत दर्ज कर सकते हैं। भुगतान किए गए प्रतिफल का मूल्य ₹5 लाख तक होने पर दाखिले का शुल्क नहीं लगता।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed (primary statute, official portal and Gazette rules)",
+        "evidence": "India Code Consumer Protection Act s.35 authorizes filing before a District Commission and electronic filing. The Department of Consumer Affairs states e-Jagriti integrated e-Daakhil and other legacy systems in 2025. The official 2023 CDRC Amendment Rules set a nil fee for consideration value up to Rs 5 lakh. NCH contact/pre-litigation role is on the official NCH site."
+      }
+    },
+    {
+      "id": "CPA-3",
+      "topic": "refund",
+      "confidence": "medium",
+      "source": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021",
+      "acts": [
+        "Consumer Protection Act, 2019",
+        "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021"
+      ],
+      "sections": [],
+      "verify": "https://consumeraffairs.gov.in/public/upload/files/232278_1732705181.pdf",
+      "en": "Which Commission has pecuniary jurisdiction depends on the value of the goods or services paid as consideration: District Commission up to Rs 50 lakh; State Commission above Rs 50 lakh up to Rs 2 crore; National Commission above Rs 2 crore. This is not necessarily the amount of refund or compensation sought. Confirm the current limits before filing.",
+      "hi": "किस आयोग को शिकायत सुनने का आर्थिक अधिकार होगा, यह सामान या सेवा के लिए भुगतान किए गए प्रतिफल के मूल्य पर निर्भर करता है: जिला आयोग ₹50 लाख तक; राज्य आयोग ₹50 लाख से अधिक और ₹2 करोड़ तक; राष्ट्रीय आयोग ₹2 करोड़ से अधिक। यह माँगे गए रिफंड या मुआवज़े की राशि के समान ज़रूरी नहीं है। शिकायत से पहले मौजूदा सीमा की पुष्टि करें।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed (official Gazette rules)",
+        "evidence": "The official Department of Consumer Affairs Gazette notification of 30 Dec 2021 sets District up to Rs 50 lakh, State above Rs 50 lakh up to Rs 2 crore, National above Rs 2 crore; basis is value paid as consideration, not refund/compensation sought."
+      }
+    },
+    {
+      "id": "CPA-4",
+      "topic": "refund",
+      "confidence": "high",
+      "source": "Consumer Protection Act, 2019, Section 69",
+      "acts": [
+        "Consumer Protection Act, 2019"
+      ],
+      "sections": [
+        {
+          "n": "69",
+          "act": "Consumer Protection Act, 2019"
+        }
+      ],
+      "verify": "https://indiacode.nic.in",
+      "en": "A consumer complaint must generally be filed within two years from when the cause of action arose (Section 69 of the Consumer Protection Act, 2019). A delay can be excused if you give a good reason.",
+      "hi": "उपभोक्ता शिकायत आमतौर पर शिकायत का कारण बनने की तारीख से दो साल के भीतर दायर होनी चाहिए (Consumer Protection Act, 2019 की धारा 69)। उचित कारण बताने पर देरी माफ़ की जा सकती है।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed",
+        "evidence": "Web check: Section 69, two years from cause of action, delay condonable for sufficient cause (case reports and commentary)."
+      }
+    },
+    {
+      "id": "CPA-5",
+      "topic": "refund",
+      "confidence": "medium",
+      "source": "Practice",
+      "acts": [],
+      "sections": [],
+      "verify": "https://consumerhelpline.gov.in",
+      "en": "A legal notice is not mandatory before a consumer complaint, but a written complaint to the seller or company with a reasonable deadline strengthens your case and is useful evidence.",
+      "hi": "उपभोक्ता शिकायत से पहले कानूनी नोटिस ज़रूरी नहीं है, लेकिन विक्रेता/कंपनी को उचित समय-सीमा के साथ लिखित शिकायत भेजने से आपका मामला मज़बूत होता है और यह सबूत भी बनती है।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "practice, not a statute",
+        "evidence": "General practical guidance, no specific legal provision cited; reasonableness reviewed, not source-checked."
+      }
+    },
+    {
+      "id": "SAL-1",
+      "topic": "salary",
+      "confidence": "medium",
+      "source": "Code on Wages, 2019 (Section 17); replaced the Payment of Wages Act, 1936",
+      "acts": [
+        "Code on Wages, 2019",
+        "Payment of Wages Act, 1936"
+      ],
+      "sections": [
+        {
+          "n": "17",
+          "act": "Code on Wages, 2019"
+        }
+      ],
+      "verify": "https://www.indiacode.nic.in/bitstream/123456789/15793/1/aA2019-29.pdf",
+      "en": "An employer must pay earned wages on time and cannot make unauthorised deductions. Since 21 November 2025 the Code on Wages, 2019 replaced the Payment of Wages Act, 1936. Section 17 of the Code on Wages, 2019 generally requires monthly wages before the end of the 7th day of the next month; after removal, dismissal, retrenchment or resignation, wages are generally due within two working days. The appropriate Government may prescribe a different time limit, and transition/state rules can matter; confirm the rule for your case with the state Labour Department.",
+      "hi": "नियोक्ता को कमाए हुए वेतन का समय पर भुगतान करना चाहिए और बिना अनुमति कटौती नहीं करनी चाहिए। 21 नवंबर 2025 से Code on Wages, 2019 ने Payment of Wages Act, 1936 की जगह ली। धारा 17 के अनुसार मासिक वेतन आम तौर पर अगले महीने की 7 तारीख़ समाप्त होने से पहले देय है; नौकरी से हटाने, बर्खास्तगी, छँटनी या इस्तीफ़े पर वेतन आम तौर पर दो कार्यदिवसों में देय है। उपयुक्त सरकार अलग समय-सीमा तय कर सकती है और पुराने बकाये/राज्य के नियम असर डाल सकते हैं; अपने मामले का नियम राज्य श्रम विभाग से जाँचें.",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "corrected",
+        "evidence": "India Code Code on Wages s.17(1)-(3): monthly wages before expiry of seventh day; termination/resignation wages within two working days; appropriate Government may provide another time limit. Ministry of Labour confirms the Codes took effect 21 Nov 2025. State and transition rules may apply."
+      }
+    },
+    {
+      "id": "SAL-2",
+      "topic": "salary",
+      "confidence": "medium",
+      "source": "Industrial Relations Code, 2020 (replaced the Industrial Disputes Act, 1947)",
+      "acts": [
+        "Industrial Relations Code, 2020",
+        "Industrial Disputes Act, 1947"
+      ],
+      "sections": [
+        {
+          "n": "59",
+          "act": "Industrial Relations Code, 2020"
+        }
+      ],
+      "verify": "https://www.indiacode.nic.in/bitstream/123456789/22040/1/aa202035.pdf",
+      "en": "For certain money due to a worker under a settlement, award or specified chapters of the Industrial Relations Code, 2020, Section 59 provides an application to the appropriate Government for recovery, ordinarily within one year (a late application may be accepted for sufficient cause). This is not a general recovery route for every unpaid-salary claim. Ask your state Labour Department or a lawyer which route and deadline cover your case.",
+      "hi": "Industrial Relations Code, 2020 की Section 59 के तहत समझौते, आदेश या कुछ निर्दिष्ट अध्यायों के अंतर्गत कर्मचारी को देय कुछ राशियों की वसूली के लिए उपयुक्त सरकार को आवेदन का प्रावधान है। आवेदन आम तौर पर एक वर्ष के भीतर करना होता है; पर्याप्त कारण होने पर देर से आवेदन स्वीकार हो सकता है। यह हर बकाया वेतन दावे के लिए सामान्य वसूली का रास्ता नहीं है। अपने राज्य के श्रम विभाग या वकील से अपने मामले का सही रास्ता और समय-सीमा पूछें.",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "corrected",
+        "evidence": "India Code Industrial Relations Code s.59 confirms recovery applies to worker money due under a settlement, award, or specified chapters, ordinarily within one year with a sufficient-cause extension. It does not cover every unpaid-salary claim generally. The Code was brought into force 21 Nov 2025; subsequent repeal clarification is recorded in official Gazette."
+      }
+    },
+    {
+      "id": "AID-1",
+      "topic": "all",
+      "confidence": "high",
+      "source": "Legal Services Authorities Act, 1987; NALSA",
+      "acts": [
+        "Legal Services Authorities Act, 1987"
+      ],
+      "sections": [],
+      "verify": "https://nalsa.gov.in",
+      "en": "Free legal aid is available under the Legal Services Authorities Act, 1987 to eligible people (for example women, children, SC/ST members and people below the income limit set by the state). Call NALSA on 15100 or visit your District Legal Services Authority.",
+      "hi": "Legal Services Authorities Act, 1987 के तहत पात्र लोगों (जैसे महिलाएँ, बच्चे, SC/ST सदस्य और राज्य द्वारा तय आय-सीमा से कम आय वाले) को मुफ़्त कानूनी सहायता मिलती है। NALSA को 15100 पर कॉल करें या अपने ज़िला विधिक सेवा प्राधिकरण जाएँ।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed",
+        "evidence": "NALSA site lists 15100 as its toll-free helpline; free legal aid via legal services authorities."
+      }
+    },
+    {
+      "id": "NOT-1",
+      "topic": "all",
+      "confidence": "medium",
+      "source": "Practice",
+      "acts": [],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "A legal notice is a formal written demand stating the facts, what you want and a deadline (commonly 15 days) after which you will take legal action. It is not required for most money claims, but it often settles the matter and shows you tried to resolve it. Send it by speed post and email and keep the receipts. Do not exaggerate facts or threaten criminal cases.",
+      "hi": "कानूनी नोटिस एक औपचारिक लिखित माँग है जिसमें तथ्य, आपकी माँग और समय-सीमा (आमतौर पर 15 दिन) होती है, जिसके बाद आप कानूनी कार्रवाई करेंगे। ज़्यादातर पैसे के दावों में यह अनिवार्य नहीं है, पर इससे अक्सर मामला सुलझ जाता है और यह दिखता है कि आपने समाधान की कोशिश की। इसे स्पीड पोस्ट और ईमेल से भेजें और रसीदें रखें। तथ्य बढ़ा-चढ़ाकर न लिखें और आपराधिक मामले की धमकी न दें।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "practice, not a statute",
+        "evidence": "General practical guidance, no specific legal provision cited; reasonableness reviewed, not source-checked."
+      }
+    },
+    {
+      "id": "EVD-1",
+      "topic": "all",
+      "confidence": "medium",
+      "source": "Bharatiya Sakshya Adhiniyam, 2023, Section 63",
+      "acts": [
+        "Bharatiya Sakshya Adhiniyam, 2023",
+        "Indian Evidence Act, 1872"
+      ],
+      "sections": [
+        {
+          "n": "63",
+          "act": "Bharatiya Sakshya Adhiniyam, 2023"
+        },
+        {
+          "n": "65B",
+          "act": "Indian Evidence Act, 1872"
+        }
+      ],
+      "verify": "https://www.indiacode.nic.in/bitstream/123456789/20063/1/a2023-47.pdf",
+      "en": "Keep every document: agreement, receipts, bank or UPI records, chats, emails, photos. For electronic records (WhatsApp, emails, screenshots), a court may require the prescribed certificate under Section 63 of the Bharatiya Sakshya Adhiniyam, 2023. Proceedings pending immediately before that law came into force on 1 July 2024 remain governed by Section 65B of the Indian Evidence Act, 1872. Keep the original phone and a backup.",
+      "hi": "सभी दस्तावेज़ रखें: समझौता, रसीदें, बैंक या UPI रिकॉर्ड, चैट, ईमेल और फ़ोटो। इलेक्ट्रॉनिक रिकॉर्ड (WhatsApp, ईमेल, स्क्रीनशॉट) के लिए अदालत Bharatiya Sakshya Adhiniyam, 2023 की धारा 63 के तहत निर्धारित प्रमाणपत्र माँग सकती है। 1 जुलाई 2024 को नया कानून लागू होने से ठीक पहले लंबित कार्यवाही पर Indian Evidence Act, 1872 की धारा 65B लागू रहती है। मूल फ़ोन और बैकअप सुरक्षित रखें.",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "confirmed",
+        "evidence": "India Code BSA s.63 and Schedule prescribe the electronic-record certificate. Section 170(2) saves applications, trials, inquiries, investigations, proceedings and appeals pending immediately before commencement under the Indian Evidence Act, 1872. BSA enforcement date is 1 July 2024."
+      }
+    },
+    {
+      "id": "CRM-1",
+      "topic": "all",
+      "confidence": "medium",
+      "source": "Negotiable Instruments Act, 1881",
+      "acts": [
+        "Negotiable Instruments Act, 1881"
+      ],
+      "sections": [],
+      "verify": "https://indiacode.nic.in",
+      "en": "Non-payment of money in a private dispute is usually a civil matter. The police may not register a case, and threatening criminal action can backfire. If there was fraud, forged documents or a bounced cheque, speak to a lawyer at once: a bounced cheque has strict timelines under the Negotiable Instruments Act, 1881.",
+      "hi": "निजी विवाद में पैसे न देना आमतौर पर दीवानी मामला होता है। पुलिस केस दर्ज न करे, ऐसा हो सकता है और आपराधिक कार्रवाई की धमकी उल्टी पड़ सकती है। अगर धोखाधड़ी, जाली दस्तावेज़ या बाउंस चेक का मामला है तो तुरंत वकील से मिलें: बाउंस चेक में Negotiable Instruments Act, 1881 के तहत सख़्त समय-सीमाएँ होती हैं।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "not re-checked",
+        "evidence": "Standard provision stated from knowledge; not re-checked in the 2026-11-08 pass. Lawyer review still needed."
+      }
+    },
+    {
+      "id": "NOT-2",
+      "topic": "all",
+      "confidence": "medium",
+      "source": "Practice (receiving a legal notice)",
+      "acts": [],
+      "sections": [],
+      "verify": "https://nalsa.gov.in",
+      "en": "A legal notice is a formal warning letter, usually from a lawyer, saying what the sender wants from you and by when. It is not a court order, and receiving one does not mean you have lost anything. But ignoring it can hurt you: the sender may go to court and point to your silence. Note the date you received it, read exactly what is claimed, and send a written reply within the stated deadline. Do not admit liability or promise payment before you check the facts and your documents. If the paper mentions a court date, 'summons', a police complaint, a bounced cheque or a bank loan, treat it as urgent and see a lawyer at once.",
+      "hi": "कानूनी नोटिस एक औपचारिक चेतावनी-पत्र है, आमतौर पर वकील की ओर से, जिसमें लिखा होता है कि भेजने वाला आपसे क्या चाहता है और कब तक। यह अदालत का आदेश नहीं है और नोटिस मिलने का मतलब यह नहीं कि आप कुछ हार गए। पर इसे अनदेखा करना नुकसानदेह हो सकता है: भेजने वाला अदालत जा सकता है और आपकी चुप्पी का हवाला दे सकता है। नोटिस मिलने की तारीख लिख लें, ठीक से पढ़ें कि क्या दावा किया गया है, और बताई गई समय-सीमा के भीतर लिखित जवाब भेजें। तथ्य और अपने दस्तावेज़ जाँचे बिना दोष स्वीकार न करें और भुगतान का वादा न करें। अगर कागज़ में अदालत की तारीख, 'सम्मन', पुलिस शिकायत, बाउंस चेक या बैंक लोन का ज़िक्र है तो इसे तुरंत गंभीर मानें और वकील से मिलें।",
+      "verification": {
+        "checked_on": "2026-11-08",
+        "status": "practice, not a statute",
+        "evidence": "General practical guidance, no specific legal provision cited; reasonableness reviewed, not source-checked."
+      }
+    }
+  ]
+}

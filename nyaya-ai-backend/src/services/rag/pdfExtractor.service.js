@@ -99,6 +99,8 @@ export const TRUSTED_DOMAINS = [
   // Government of India portals
   "consumeraffairs.nic.in",
   "consumerhelpline.gov.in",
+  "consumeraffairs.gov.in",
+  "nalsa.gov.in",
   "ncdrc.nic.in",
   "legislative.gov.in",
   "indiacode.nic.in",
